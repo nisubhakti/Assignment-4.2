@@ -1,0 +1,8 @@
+.margin{
+	width: 200px;
+	padding: 25px 25px 25px 25px;
+    border: 25px solid;
+    border-color:  #003399;
+    margin: 25px 25px 25px 25px;
+    background-color: lightblue;
+}
